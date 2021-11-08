@@ -1,0 +1,61 @@
+body {
+    background-color:#F3F5C9;
+}
+
+#Call h2 {
+    position: absolute;
+    width: 1000px;
+    font-size: 40px;
+    background-color: #FBF6A2;
+    text-align: center;
+    margin: 10px 200px;
+    padding: 20px;
+    padding-bottom: 0px;
+}
+
+h5,
+input {
+    margin-left: 100px;
+    margin-right: none;
+    padding: none;
+}
+
+#Submit {
+    position: absolute;
+    top: 700px;
+    right: 560px;
+    padding: 0px 50px;
+    height: 50px;
+    background-color: #FBF6A2;
+}
+
+.Paycol h2 {
+    width: 1330px;
+    font-size: 40px;
+    background-color: #F3F5C9;
+    text-align: center;
+    margin: 0px auto;
+    padding: 20px 0px;
+    padding-bottom: 0px;
+}
+
+.Paycol {
+    display: flex;
+    flex-direction: row;
+    background-color: #F3F5C9;
+    width: 1290px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    padding-left: 275px;
+}
+
+#PCol2 {
+    margin-bottom: 100px;
+}
+
+form table {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}

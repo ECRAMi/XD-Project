@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css?family=Bitter|Lato&display=swap');
+
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+    width: 100%;
+    max-width: 1366px;
+}
+
+h5,
+p,
+a {
+    font-family: 'Lato', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: 'Bitter', serif;
+
+}
+
+form div {
+    border-top: 1px solid black;
+}
+
+#Layout {
+    border-spacing: 15px;
+}
+
+table {
+    border-spacing: 0px;
+    width: 1340px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#BGImg {
+    margin: 0px auto;
+    position: fixed;
+    width: 1380px;
+    z-index: -100;
+}
+
+#Logo {
+    position: absolute;
+    margin-top: -50px;
+    width: 130px;
+    z-index: 100;
+}
+
+#TopNav {
+    font-size: 25px;
+    width: 1366px;
+    background-color: black;
+    padding: 5px 0px;
+    padding-top: -5px;
+    padding-left: 10px;
+    text-align: left;
+    word-spacing: 50px;
+    z-index: 99;
+}
+
+#TopNav a {
+    font-family: 'Bitter', serif;
+    border-right: 3px solid #F3F5C9;
+    padding-right: 65px;
+}
+
+#TopNav :first-child {
+    padding-left: 160px;
+}
+
+#TopNav :last-child {
+    border-right: none;
+    padding-right: none;
+    margin-right: none;
+}
+
+#TopNav a:link {
+    color: #F3F5C9;
+    text-decoration: none;
+}
+
+#TopNav a:visited {
+    color: #F3F5C9;
+}
+
+#TopNav a:hover {
+    color: #EAE108;
+}
+
+#TopNav a:active {
+    color: #d0c809;
+}
+
+
+
+h1 {
+    margin: 10px 25px;
+    text-align: center;
+    font-size: 150px;
+    background-color: #F3F5C9;
+}
+
+.Main {
+    margin: 1px;
+    text-align: center;
+}
+
+.Main h2 {
+    font-size: 40px;
+    background-color: #F3F5C9;
+}
+
+.Main h5 {
+    margin: -25px 25px;
+    margin-bottom: -1px;
+    font-style: normal;
+    padding-bottom: 5px;
+    background-color: #F3F5C9;
+}
+
+.Main p {
+    margin: 0px 25px;
+    margin-bottom: -1px;
+    font-size: 10px;
+    font-style: normal;
+    padding-bottom: 5px;
+    background-color: #F3F5C9;
+}
+
+.Main td {
+    padding: 0px;
+    margin: 0px;
+}
+
+.Main td td {
+    background-color: #F3F5C9;
+}
+
+.Main table {
+    text-align: center;
+    width: 1329px;
+    margin-left: 26px;
+    margin-right: 20px;
+}
+
+.ColumnBot p {
+    margin-bottom: 25px;
+}
+
+
+
+
+#Footer {
+    background-color: #FBF6A2;
+    text-align: center;
+    padding: 0px 100px;
+}
+
+#Footer td {
+    width: 1380px;
+    padding: 15px 0px;
+}
+
+#Footer p {
+    width: 1361px;
+    margin: 0px;
+    padding-right: 20px;
+}
+
+:link {
+    text-decoration: none;
+    color: black;
+}

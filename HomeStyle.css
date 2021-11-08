@@ -1,0 +1,24 @@
+#News {
+    margin-bottom: -15px;
+}
+
+#News img {
+    width: 350px;
+    margin-top: 25px;
+}
+
+#News h5 {
+    margin: 0px 25px;
+}
+
+#News .ColumnBot h5 {
+    padding-bottom: 25px;
+}
+
+#LHeader h1 {
+    margin-top: 115px;
+    font-size: 200px;
+    background-color: transparent;
+    color: white;
+    text-shadow: -20px 10px 10px black, -2px -2px 1px black, 2px 2px 1px black, -2px 2px 1px black, 2px -2px 1px black;
+}

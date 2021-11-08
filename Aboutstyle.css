@@ -1,0 +1,23 @@
+#Content {
+    background-color: #F3F5C9;
+    padding: 30px;
+    margin-left: 40px;
+    padding-bottom: 70px;
+    width: 1340px;
+}
+
+#Content p {
+    margin-left: 10px;
+}
+
+#Content #SM img {
+    position: absolute;
+}
+
+#F {
+    right: 700px;
+}
+
+#IG {
+    left: 700px;
+}
